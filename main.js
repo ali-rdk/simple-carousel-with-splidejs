@@ -14,3 +14,12 @@ new Splide( '.splide',{
     padding: '10%',
     gap: '3rem',
 }).mount();
+
+// const cover = document.querySelectorAll('#poster');
+// const play_btn = document.querySelectorAll('#play_btn');
+// console.log(play_btn);
+// cover.forEach((item, index) =>{
+//     item.addEventListener('mouseover', (event)=>{
+//         play_btn[index].style = "z-index: 2"
+//     })
+// })
